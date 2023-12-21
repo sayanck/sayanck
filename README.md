@@ -1,4 +1,6 @@
-### Hi Sayan Chakraborty here👋
+   ### Hi 👋 I'm Sayan
+
+  ### Passionate developer and tech enthusiastic 
 
 - 🔭 I’m currently working on ML based project & DSA problem solving skills
 - 🌱 I’m currently learning Generative AI and its architecture as well as the core concepts of OS 
